@@ -30,6 +30,11 @@
 
 ------
 
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/ZEUSBOTZ-MD)](https://repl.it/github/MagoInterior/ZEUSBOTZ-MD) 
+
+
 # Shiro Whatsapp MD
 ## Information
 > Shiro whatsapp using a Baileys library.
